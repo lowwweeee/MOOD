@@ -1,0 +1,38 @@
+.mood1 img{
+    position: absolute;
+    top: 135%;
+    left: 10%;
+    height: 300px;
+    width: 350px;
+  }
+  
+  .mood2 img{
+    position: absolute;
+    top: 135%;
+    left: 35%;
+    height: 300px;
+    width: 350px;
+  }
+  
+  .p1{
+    position: absolute;
+    top: 160%;
+    left: 6%;
+    color:rgb(255, 255, 255);
+    font-size: 15px;
+    }
+  
+    .p2{
+      position: absolute;
+      top: 160%;
+      left: 30%;
+      color:rgb(255, 255, 255);
+      font-size: 15px;
+      }
+  
+  body{
+    background-color: rgb(43, 192, 160);
+  }
+  
+  a {
+    color: red;
